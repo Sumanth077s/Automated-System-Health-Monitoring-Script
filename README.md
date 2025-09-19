@@ -59,8 +59,3 @@ Report completed.
 📜 License
 
 This project is open-source and available under the MIT License.
-
-
----
-
-Do you want me to also prepare a **Linux Bash version** with its own README section, so you can show *
